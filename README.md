@@ -4,7 +4,7 @@ In this project I have designed machine larning model to classify the given acce
 Data Set- https://archive.ics.uci.edu/ml/datasets/Speaker+Accent+Recognition.
 
 I have tried to check accuracy using different classifiers like KNN, SVM, logistic regression, LDA and decision tree. Got the best performance using KNN classifier.
-Also used different feature extraction and tuning method like Principle component analysis (PCA), removing outliers for better accuracy.
+Also used different feature extraction and tuning methods like Principle component analysis (PCA), removing outliers for better accuracy.
 I have used Jupyter notebook to write code in Python.
 
 Files included here:
